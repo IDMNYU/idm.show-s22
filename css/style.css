@@ -361,10 +361,7 @@ nav>p:first-child {
 .additionalMediaCollection::before {
   content: "Additional Media";
   grid-column-end: span 3;
-  font-family: var(--headerFont);
-  text-transform: var(--headerTransform);
-  letter-spacing: var(--headerLetterSpacing);
-  font-size: var(--h3Size);
+  font-family: var(--bodyItFont);
   /* font-weight: bold; */
 }
 
@@ -401,10 +398,7 @@ nav>p:first-child {
   content: "External Links";
   display: block;
   grid-column-end: span 3;
-  font-family: var(--headerFont);
-  text-transform: var(--headerTransform);
-  letter-spacing: var(--headerLetterSpacing);
-  font-size: var(--h3Size);
+  font-family: var(--bodyItFont);
   /* font-weight: bold; */
 }
 
