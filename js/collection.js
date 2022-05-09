@@ -1052,7 +1052,7 @@ let projectCollection = {
 			"Social links": "Instagram: https://www.instagram.com/lilin40933/    \nLinkedIn: https://www.linkedin.com/in/chingshuan-hsiao",
 			"Long Description of your work (4-6 sentences).": "Neverisland is a healing/entertaining interactive experience that raises an adult's happiness based on the Mixed Reality immersive environment by integrating the natural environment and nostalgia components. \nThe motivation for my thesis is my personal experience with mental stress caused by Covid-19 and a more broad aspect related to the global mental severe health issue among adults. In recent years, the impact of chronic stress on mental disorders has become the subject of many studies.  Emotional pressure has become a high-frequency word used in modern society. It is an unavoidable psychological state that everyone is facing. In particular, the global pandemic has exacerbated people's psychological pressure in the past two years. The outbreak of COVID-19 has seriously affected many aspects of people's daily life. Coronavirus not only attacks our bodies but also affects people's mental health in many ways. Therefore, I desire to make an entertaining interactive experience to help more people like me who are under stress to relieve themselves by combining nature and nostalgia aspects.\n           This world is set on floating islands with a low poly style. Experiencers can choose to land on any island to experience different interactive stages. For each island’s experience content, I include these nostalgia factors that can evoke nostalgic memories in most people globally and the natural environment and let players interact with and have many kinds of experiences.\n          This project is developed in Unreal with Magicleap Glasses using Mixed Reality technology. Users can experience and interact with Neverisland in their familiar physical space instead of a completely virtual environment. By comprehensively blending both physical and digital realities, MR is able to build new levels of engagement and immersiveness.",
 			"Main Image": "main.jpg",
-			"Supplementary Images": ""1.jpg, 2.jpg",
+			"Supplementary Images": "1.jpg, 2.jpg",
 			"Link to any video content (Vimeo / YouTube)": "https://vimeo.com/701475508",
 			"Link to your personal portfolio": "chingshuanhsiao.com",
 			"Project link": "lily-neverisland.com",
@@ -1647,7 +1647,8 @@ let projectCollection = {
     "Project link": "https://run-it.netlify.app/",
     "Long Description of your work (4-6 sentences).": "As of this year, I’ve been starting to run a couple of times a week with my friend, and I really wanted to focus on getting a consistent pace going for longer runs. I often struggle with either going too fast at the start and tiring out or going too slow and not pushing myself hard enough, leaving a lot of energy at the end of my run. Something else I struggle with is having good, high-energy playlists that match the cadence I’m trying to run at. I often have a good playlist that I can run for a week with, but then I get tired of it and focus less on the music and more on how tired I am. It’s hard to create unique playlists each week, especially one that matches the tempo and energy I need.\n\nSo, I had the idea to automate it using the Spotify API, and that’s where this senior project came from. I looked into the API and they had all the data I needed - BPM, genre, and energy level of the song.",
     "Main Image": "main.jpg",
-	  "Supplementary Images": ""1.jpg, 2.jpg",
+
+	  "Supplementary Images": "1.jpg, 2.jpg",
 	   "Theme and keywords": "Running, Spotify, Playlist Generator, Music, Website, UI/UX design",
     "Profile photo": "https://drive.google.com/open?id=1efIca4AWDLDiXPBTHcvvwZJS6SAadYmA",
     "Social links": "https://www.linkedin.com/in/luke-koppenheffer/",
@@ -2037,7 +2038,8 @@ let projectCollection = {
     "Project link": "https://csc611.wixsite.com/idmsp",
     "Long Description of your work (4-6 sentences).": "This project is about redesigning the MTA eTix application to better fit customer needs, create a more sustainable approach to the MTA ticket system, and make a more aesthetically pleasing, accessible, user friendly interface. I want the people of NYC to have a simple, easy, non-stressful way to find, purchase, and us tickets (without having to stop to use their card to refill a paper Metrocard or without having to purchase a physical LIRR ticket). With the new MTA eTix, users can simply install the app, turn on their location service, choose an origin and destination, and allow the app to map a route based on efficiency. Users handle all purchases through the app! They don’t have to worry about waiting in lines, losing their cards (or wasting paper), or handling their credit cards in public, potentially unsafe places.",
     "Main Image": "main.jpg",
-	  "Supplementary Images": ""1.jpg, 2.jpg, 3.jpg",
+
+	  "Supplementary Images": "1.jpg, 2.jpg, 3.jpg",
 	 "Theme and keywords": "UX design, Figma, User experience research, graphic design, accessibility, NYC, transportation",
     "Profile photo": "https://drive.google.com/open?id=1z390wIFED0Q9kgf9ZHt-eST4mGB-khWq",
     "Social links": "linkedin.com/in/carolinescho",
