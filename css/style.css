@@ -20,9 +20,9 @@
 }
 
 @font-face {
-  src: url('Beatrice-Regular.woff');
-  font-family: 'Beatrice-Regular';
-  font-weight: 100;
+  src: url('Beatrice-RegularItalic.woff');
+  font-family: 'Beatrice-RegularIt';
+  font-weight: 400;
 }
 
 
@@ -30,21 +30,21 @@
   /* --gradientColorA: rgba(235, 196, 214, 1);
   --gradientColorB: rgba(255, 244, 191, 1); */
   --gradientColorA: #F6921E;
-  --gradientColorB: #F5B618;
+  --gradientColorB: #f6e7c1;
   --foregroundColor: #313;
   /* --foregroundColor: #3c4f96; */
   /* --hoverColor: #57068c; */
   --hoverColor: var(--foregroundColor);
   --headerFont: 'BeatriceDisplay-BoldIt';
+
   --headerWeight: 100;
-  --header3Weight: 140;
-  --headerTransform: uppercase;
-  --h3Transform;
-  --headerLetterSpacing: 0.1em;
+ /* --header3Weight: 140; */
+  /* --h3Transform; */
   /* --bodyFont: 'Overpass Mono', monospace; */
   --bodyFont: 'Beatrice-Regular';
-  --h2Size: 3em;
-  --h3Size: 2em;
+  --bodyItFont: 'Beatrice-RegularIt';
+  --h2Size: 2.5em;
+  --h3Size: 1.25em;
   --radiusLv1: 0;
   --radiusLv2: 0;
   /* --radiusLv3: 0; */
@@ -62,13 +62,10 @@ html {
   padding: 0;
   margin: 0;
   font-family: var(--bodyFont);
+  font-size: small;
+  font-weight: 300;
   min-height: 100%;
   color: var(--foregroundColor);
-
-}
-
-body {
-  font-weight: 400;
 }
 
 a {
@@ -118,25 +115,24 @@ header {
   /* Fix for header graphic– temporary */
 }
 
-h1,
-h2,
-h3 {
+h1{
   font-family: var(--headerFont);
-  ;
-  text-transform: var(--headerTransform);
-  letter-spacing: var(--headerLetterSpacing);
+}
+
   
   /* font-size: 2em; */
 }
 
 h2 {
-  font-size: 24px;
+  font-family: var(--bodyFont);
+  font-size: medium;
   font-weight: 60;
 
 }
 
 h3 {
-  font-size: 21px;
+   font-family: var(--bodyItFont);
+  font-size: large;
   font-weight: var(--header3Weight)
 }
 
@@ -290,7 +286,7 @@ nav>p:first-child {
 }
 
 .projectPreview>div>p:nth-child(1) {
-  font-family: var(--headerFont);
+  font-family: var(--BodyFont);
   font-size: var(--h3Size);
   text-transform: var(--headerTransform);
   margin-bottom: 8px;
@@ -299,9 +295,7 @@ nav>p:first-child {
 
 
 .projectPreview>div>p:nth-child(2) {
-  font-family: var(--headerFont);
-  font-size: var(--h3Size);
-  text-transform: var(--headerTransform);
+  font-family: var(--BodyItFont);
   margin-bottom: 8px;
   font-weight: var(--header3Weight);
 }
