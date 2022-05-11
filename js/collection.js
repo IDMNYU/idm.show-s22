@@ -1131,7 +1131,7 @@ let projectCollection = {
 			"Net ID": "va29",
 			"What year are you?": "Final Year Grad (Thesis Project)",
 
-			"Project title": "Crafty Labor: An investigation of the e-commerce giant, Etsy",
+			"Project title": "Crafting & Labor: An investigation of the e-commerce giant, Etsy",
 			"What kind of form is the work (website, game, vr, etc)": "Website",
 			"Short project description (one sentence - 500 characters)": "This project is an investigation of the e-commerce giant, Etsy.",
 			"Discussion Groups": "5 (or 1)",
